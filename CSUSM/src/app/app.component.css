@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 50px auto;
+  background-color: cornsilk;
+  align-items: center;
+}
+
+.title {
+  grid-column-start: span 2;
+}
+
+.intro {
+  grid-column-start: span 4;
+  padding-left: 30px;
+}
+
+.hunterImage {
+  padding: 20px;
+  background-color: slategray;
+}
