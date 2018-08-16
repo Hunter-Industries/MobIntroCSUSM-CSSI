@@ -1,5 +1,5 @@
-# MobIntroCSUSM-CSSI
-Hunter recently held an open house for the CSSI (Computer Science Summer Institute) program at CSUSM. As part of this event we introduced the students to both Mob Programming and Angular development.  This respository contains the steps we used to take the students through generating and customizing a new Angular CLI project.  The final solution is provided (the starting point is generating the solution).
+# Mobbing Introduction for CSUSM-CSSI
+Hunter recently held an open house for the CSSI (Computer Science Summer Institute) program at CSUSM (California State University - San Marcos). As part of this event we introduced the students to both Mob Programming and Angular development.  This respository contains the steps we used to take the students through generating and customizing a new Angular CLI project.  The final solution is provided (the starting point is generating the solution).
 
 The instructions are located in the CSUSMDemontration documents, both PDF and DOCX formats are provided.
 
