@@ -3,7 +3,7 @@ Hunter recently held an open house for the CSSI (Computer Science Summer Institu
 
 The instructions are located in the CSUSMDemontration documents, both PDF and DOCX formats are provided.
 
-#Environment Requirements
+# Environment Requirements
 
 The environment to support this demonstration uses these three tools:
 
